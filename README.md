@@ -59,32 +59,26 @@ The final members table captures the `join_date` when a `customer_id` joined the
 
 ## Table of Contents
 
-[Problem Statement](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#problem-statement)
+[Problem Statement]
 
-[Case Study Questions](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#case-study-questions)
+[Case Study Questions]
 
-[1. What is the total amount each customer spent at the restaurant?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#1-what-is-the-total-amount-each-customer-spent-at-the-restaurant)
+[1. What is the total amount each customer spent at the restaurant?]
+[2. How many days has each customer visited the restaurant?]
 
-[2. How many days has each customer visited the restaurant?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#2-how-many-days-has-each-customer-visited-the-restaurant)
+[3. What was the first item from the menu purchased by each customer?]
+[4. What is the most purchased item on the menu and how many times was it purchased by all customers?]
 
-[3. What was the first item from the menu purchased by each customer?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#3-what-was-the-first-item-from-the-menu-purchased-by-each-customer)
+[5. Which item was the most popular for each customer?]
 
-[4. What is the most purchased item on the menu and how many times was it purchased by all customers?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#4-what-is-the-most-purchased-item-on-the-menu-and-how-many-times-was-it-purchased-by-all-customers)
+[6. Which item was purchased first by the customer after they became a member?]
 
-[5. Which item was the most popular for each customer?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#5-which-item-was-the-most-popular-for-each-customer)
+[7. Which item was purchased just before the customer became a member?]
 
-[6. Which item was purchased first by the customer after they became a member?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#6-which-item-was-purchased-first-by-the-customer-after-they-became-a-member)
+[8. What is the total items and amount spent for each member before they became a member?]
 
-[7. Which item was purchased just before the customer became a member?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#7-which-item-was-purchased-just-before-the-customer-became-a-member)
+[9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?]
+[10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?]
 
-[8. What is the total items and amount spent for each member before they became a member?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#8-what-is-the-total-items-and-amount-spent-for-each-member-before-they-became-a-member)
 
-[9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#9-if-each-1-spent-equates-to-10-points-and-sushi-has-a-2x-points-multiplier---how-many-points-would-each-customer-have)
 
-[10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#10-in-the-first-week-after-a-customer-joins-the-program-including-their-join-date-they-earn-2x-points-on-all-items-not-just-sushi---how-many-points-do-customer-a-and-b-have-at-the-end-of-january)
-
-[Bonus Questions](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#bonus-questions)
-
-[Join All The Things](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#join-all-the-things)
-
-[Rank All The Things](https://github.com/muryulia/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md/#rank-all-the-things)
